@@ -16,13 +16,3 @@ Beyond model building, this project covers the complete data science lifecycle r
 * **Name:** Breast Cancer Wisconsin (Diagnostic) Data Set
 * **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
----
-
-## 🛠️ Project Structure
-
-```text
-.
-├── data/               # Raw and processed dataset files
-├── notebooks/          # Jupyter notebooks for EDA, testing, and modeling
-├── src/                # Modular scripts for preprocessing and model execution
-└── README.md           # Project documentation
